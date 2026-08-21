@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8B5CF6"                # Roxo Sovereign nos botões, abas e contornos
+backgroundColor = "#0E1117"             # Fundo Dark Principal
+secondaryBackgroundColor = "#1E1E2E"    # Fundo dos Cards e Sidebar
+textColor = "#FAFAFA"                   # Texto Branco
+font = "sans serif"
